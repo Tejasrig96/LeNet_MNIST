@@ -1,2 +1,2 @@
 # MNIST_NN
-Classifying handwritten digits using a CNN.
+Classifying handwritten digits using a CNN (LeNet architecture).
